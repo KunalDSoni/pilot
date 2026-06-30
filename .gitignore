@@ -1,0 +1,39 @@
+# Flutter
+app/.dart_tool/
+app/.packages
+app/.packages-pre
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/**/*.g.dart
+app/**/*.freezed.dart
+app/coverage/
+app/.fvm/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+test.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db
